@@ -5,3 +5,4 @@ Free themes and plugins
 | ------ | ------ | ------ |
 | Xbox Framework - Create Meta boxes, Theme Options & Admin Pages for WordPress | plugins located in the xbox folder | http://bit.ly/2DjxgyB |
 | JetElements - Addon for Elementor Page Builder | 1.7.1.1 | http://bit.ly/2rfGZkb |
+| Master Popups - WordPress Popup Plugin | last version | http://bit.ly/2Du1gr5 |
