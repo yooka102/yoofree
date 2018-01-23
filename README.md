@@ -9,3 +9,7 @@ Free themes and plugins
 | Master Slider| version 3.2.2 | http://bit.ly/2n3O8iO |
 | Slider Revolution | version 5.4.6.2 | http://bit.ly/2DyFZgP |
 | Layer Slider | version 6.6.1 | http://bit.ly/2mRUU9q |
+| Visual Composer | version 5.2.1+ | http://bit.ly/2n455c5 |
+| Revolution Slider | version 5.2.5+ | http://bit.ly/2ry37Gj |
+| Go Pricing | version 3.2.1+ | http://bit.ly/2DsJYr4 |
+| Essential Grid | version 2.1.0.2+ | http://bit.ly/2DZUOpv |
